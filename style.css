@@ -1,0 +1,11 @@
+*{
+	background: darkgray;
+}
+input[type="text"],input[type="password"]{
+  font-family: Arial, sans-serif;
+  color: #333;
+  border: 1px solid #ccc;
+  inline: black;
+  width: 400;
+  height: 50;
+}
